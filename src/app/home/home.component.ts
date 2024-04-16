@@ -52,3 +52,10 @@ export class HomeComponent {
     
   }
 }
+
+// We will need a form to type into to create to do's
+// Every time someone presses enter or submit new note gets created
+// Note needs:
+//            Checkbox to cross off tasks --> and CSS checked states
+//            Description of items --> can use *value to store that in textbox
+//            
